@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Abdelhak Bouayad"
-  pronouns         : He/his # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Mohammed VI Polytechnic University"
   location         : "Ben-Guerir, Morocco"
   employer         : "Red Brick University"
